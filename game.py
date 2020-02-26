@@ -1,5 +1,5 @@
 import random
-
+#essay
 money = 100
 num = random.randint(1, 10)
 
