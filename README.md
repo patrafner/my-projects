@@ -1,3 +1,2 @@
-# my-projects
-Hello
-You can see on this page some of the projects that I have been doing while learning Python 3.
+# color-game
+This is game where you need to guess a color by clicking squares. 
